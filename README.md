@@ -2,4 +2,4 @@
 
 * Check boxes group and sub-group selection
 
-![demo_group_selection](demo.gif)
+![demo_group_selection](Shiny_widget_group_check/demo.gif)
